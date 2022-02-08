@@ -1,4 +1,4 @@
-console.log('Hello'+' world'); // Конкотенация (Слепить строки)
+console.log('Hello11'+' world'); // Конкотенация (Слепить строки)
 console.info('Hello'+' world'); // тоже самое
 //alert('всплывающее окно')
 document.getElementById('out').innerHTML = 'Art'; // innerHTML-присвоение
@@ -14,3 +14,8 @@ let c; //можно сначала объявить
 c = document.querySelector('.head'); //потом присвоить
 a.innerHTML=999;
 c.innerHTML=999;
+
+function name(){
+    alert('hello');
+}
+name();
