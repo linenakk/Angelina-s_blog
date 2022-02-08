@@ -1,1 +1,1 @@
-# kanban+drawings+diaries
+# kanban+drawings+diaries Это я  потом для себя сдела. Это просто  заметка чтобы не забыть
